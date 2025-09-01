@@ -55,4 +55,5 @@ Profitieren Sie durch HelloID von der automatisierten Synchronisation zwischen A
 *	**AFAS – TOPdesk Anbindung**  
 Erhöhen Sie die Effizienz zwischen HR und IT, indem Sie AFAS mit TOPdesk verbinden. HelloID kann beispielsweise automatisch Tickets bei der Onboarding erzeugen, was zu einem reibungslosen Prozess führt.
 
+
 Darüber hinaus unterstützt HelloID mehr als 200 Connectoren. Damit bietet HelloID eine Vielzahl an Integrationsmöglichkeiten zwischen AFAS und anderen Systemen. Besuchen Sie hier die <a href="https://www.tools4ever.nl/connectoren/">Connector-Seiten</a> für die Möglichkeiten.
